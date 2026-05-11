@@ -180,7 +180,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## ⚠️ 已知局限
 
-本项目作为限时框架版本（开发投入约 4 小时），有意识地做了以下取舍：
+本项目作为限时框架版本（开发投入约两天），有意识地做了以下取舍：
 
 - **一致性方法仅用 1 种**（纯文本 + 固定种子），未对比 IP-Adapter / ControlNet
 - **Mockup 模板**使用程序生成的占位 T 恤，未叠加真实材质
